@@ -72,7 +72,7 @@ const Orders = ({ url }) => {
                 }}
                 value={order.status}
               >
-                <option value="Food Processing">Food Processing</option>
+                <option value="Food Processing">Order Processing</option>
                 <option value="Out For Delivery">Out For Delivery</option>
                 <option value="Delivered">Delivered</option>
               </select>
